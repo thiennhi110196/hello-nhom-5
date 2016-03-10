@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Nhipttps03246
+</name>
+</assembly>
+<members>
+<member name="P:Nhipttps03246.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources._1337833195_sieu_thi_tai_binh_duong_ico">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources._1447730277_2b9de01c">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources._414p1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.bi_quyet_giu_chan_khach_hang_tren_fanpage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.click_here">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.co_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.cutcaster_photo_800796382_Person_push_CLICK_HERE_website_link_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.cutcaster_photo_800796382_Person_push_CLICK_HERE_website_link_button1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.hinh_nen_nhung_cuon_sach_dep_cho_may_tinh_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.hinh_nen_nhung_cuon_sach_dep_cho_may_tinh_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.ngon_tinh_nguoc_thichtruyen_vn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.P3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.tai_hinh_nen_dep_1_620x388">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.Untitled">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Nhipttps03246.My.Resources.Resources.Untitled1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Nhipttps03246.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

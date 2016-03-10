@@ -1,0 +1,36 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\bin\Debug\Nhipttps03246.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\bin\Debug\Nhipttps03246.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\bin\Debug\Nhipttps03246.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\bin\Debug\Nhipttps03246.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.frmDangNhapAdmin.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.frmTrangMoDau.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Nhipttps03246\obj\Debug\Nhipttps03246.frmGioiThieu.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\bin\Debug\Nhipttps03246.exe.config
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.exe
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.xml
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.pdb
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\bin\Debug\Nhipttps03246.exe
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\bin\Debug\Nhipttps03246.pdb
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\bin\Debug\Nhipttps03246.xml
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmDangNhapAdmin.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmGioiThieu.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmTrangMoDau.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmTrangChuAdmin.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.Resources.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmDangNhapUser.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmTrangChuUser.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmCapNhatKH.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmThongTin.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmChiTiet.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmDangKy.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmCapNhatSP.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmDanhSachKH.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmDanhSachSP.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.frmLienHe.resources
+C:\Users\Admin\Desktop\Nhipttps03246\Nhipttps03246\obj\Debug\Nhipttps03246.FrmTiemKiem.resources

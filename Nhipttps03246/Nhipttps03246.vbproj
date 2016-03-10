@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9C35CFE-42C0-418B-8528-3C4E3DCC69F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Nhipttps03246.My.MyApplication</StartupObject>
+    <RootNamespace>Nhipttps03246</RootNamespace>
+    <AssemblyName>Nhipttps03246</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Nhipttps03246.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Nhipttps03246.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCapNhatSP.Designer.vb">
+      <DependentUpon>frmCapNhatSP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatSP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChiTiet.Designer.vb">
+      <DependentUpon>frmChiTiet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChiTiet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangKy.Designer.vb">
+      <DependentUpon>frmDangKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangKy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDanhSachKH.Designer.vb">
+      <DependentUpon>frmDanhSachKH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDanhSachKH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDanhSachSP.Designer.vb">
+      <DependentUpon>frmDanhSachSP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDanhSachSP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLienHe.Designer.vb">
+      <DependentUpon>frmLienHe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLienHe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTin.Designer.vb">
+      <DependentUpon>frmThongTin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatKH.Designer.vb">
+      <DependentUpon>frmCapNhatKH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatKH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhapAdmin.Designer.vb">
+      <DependentUpon>frmDangNhapAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhapAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhapUser.Designer.vb">
+      <DependentUpon>frmDangNhapUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhapUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGioiThieu.Designer.vb">
+      <DependentUpon>frmGioiThieu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGioiThieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTiemKiem.Designer.vb">
+      <DependentUpon>FrmTiemKiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTiemKiem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrangChu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrangChu.Designer.vb">
+      <DependentUpon>frmTrangChu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrangChuAdmin.Designer.vb">
+      <DependentUpon>frmTrangChuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrangChuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrangChuUser.Designer.vb">
+      <DependentUpon>frmTrangChuUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrangChuUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmCapNhatSP.resx">
+      <DependentUpon>frmCapNhatSP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChiTiet.resx">
+      <DependentUpon>frmChiTiet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangKy.resx">
+      <DependentUpon>frmDangKy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDanhSachKH.resx">
+      <DependentUpon>frmDanhSachKH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDanhSachSP.resx">
+      <DependentUpon>frmDanhSachSP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLienHe.resx">
+      <DependentUpon>frmLienHe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTin.resx">
+      <DependentUpon>frmThongTin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatKH.resx">
+      <DependentUpon>frmCapNhatKH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhapAdmin.resx">
+      <DependentUpon>frmDangNhapAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhapUser.resx">
+      <DependentUpon>frmDangNhapUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGioiThieu.resx">
+      <DependentUpon>frmGioiThieu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTiemKiem.resx">
+      <DependentUpon>FrmTiemKiem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrangChu.resx">
+      <DependentUpon>frmTrangChu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrangChuAdmin.resx">
+      <DependentUpon>frmTrangChuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrangChuUser.resx">
+      <DependentUpon>frmTrangChuUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-nhung-cuon-sach-dep-cho-may-tinh-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tai-hinh-nen-dep-1-620x388.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-nhung-cuon-sach-dep-cho-may-tinh-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\co_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1337833195_sieu-thi-tai-binh-duong-ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cutcaster-photo-800796382-Person-push-CLICK-HERE-website-link-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\click_here.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ngon-tinh-nguoc-thichtruyen.vn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\414p1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bi-quyet-giu-chan-khach-hang-tren-fanpage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1447730277_2b9de01c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cutcaster-photo-800796382-Person-push-CLICK-HERE-website-link-button1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
